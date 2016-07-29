@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='produtils',
-      version='0.1',
+      version='0.2',
       description='A nifty library of productivity tools',
       url='https://bitbucket.org/mukundraj/produtils',
       author='Mukund Raj',
