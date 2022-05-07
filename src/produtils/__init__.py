@@ -42,8 +42,8 @@ def dprint(*arg):
     #     print ("pdb##",priorityDebug, arg[1:], "##",temp[-1],info.function, info.lineno)
 
 
-dprint("hello0")
-priorityDebug = 1;
-dprint(1, ";hello1")
-dprint('2', "hello2")
+# dprint("hello0")
+# priorityDebug = 1;
+# dprint(1, ";hello1")
+# dprint('2', "hello2")
 
